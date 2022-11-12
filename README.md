@@ -17,6 +17,6 @@ https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/
 
 Dentro del notebook de la entrega final hay un conjunto de comandos que cumplen específicamente con la carga automática de los datos necesarios. No es necesario descargarlos a la máquina personal puesto que se cargarán desde el sitio oficial de Kaggle hacia el notebook en colab. 
 
-**Videos de la entrega 2:**
+**Video de la entrega 2:**
 
 https://youtu.be/wSamwTnGoRc
