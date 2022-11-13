@@ -17,6 +17,6 @@ https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/
 
 Dentro del notebook de la entrega final hay un conjunto de comandos que cumplen específicamente con la carga automática de los datos necesarios. No es necesario descargarlos a la máquina personal puesto que se cargarán desde el sitio oficial de Kaggle hacia el notebook en colab. En caso de que la primera celda "!pip install pycaret" no se ejecute correctamente, se debe reiniciar el Google Compute Engine. Esta opción aparecerá al final del error si es que surge. 
 
-**Video de la entrega 2:**
+**Video de la entrega Final:**
 
-https://youtu.be/wSamwTnGoRc
+https://youtu.be/bCO8EcC-EXY
